@@ -6,3 +6,4 @@ Hobbies:
 Cantar
 Programar
 Tocar la guitarra
+Soy de Ecuador
